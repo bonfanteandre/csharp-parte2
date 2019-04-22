@@ -1,0 +1,6 @@
+C:\Users\André\Downloads\csharppoo-aula4\05-ByteBank\bin\Debug\05-ByteBank.exe.config
+C:\Users\André\Downloads\csharppoo-aula4\05-ByteBank\bin\Debug\05-ByteBank.exe
+C:\Users\André\Downloads\csharppoo-aula4\05-ByteBank\bin\Debug\05-ByteBank.pdb
+C:\Users\André\Downloads\csharppoo-aula4\05-ByteBank\obj\Debug\05-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\André\Downloads\csharppoo-aula4\05-ByteBank\obj\Debug\05-ByteBank.exe
+C:\Users\André\Downloads\csharppoo-aula4\05-ByteBank\obj\Debug\05-ByteBank.pdb
